@@ -23,8 +23,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2018051706;
+$plugin->version = 2018051706.01;
 $plugin->requires = 2018051700;
-$plugin->release = '3.5.0.5';
+$plugin->release = '3.5.0.5-andil'; //https://github.com/andil-elearning/moodle-auth_oidc/tree/MOODLE_35_STABLE_with_cleanning_task
 $plugin->component = 'auth_oidc';
 $plugin->maturity = MATURITY_STABLE;
